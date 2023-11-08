@@ -1,0 +1,15 @@
+/*contains css pertaining to this section/component*/
+
+.place-img-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.welcome-page{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../../../Assets/backgroundImg.jpeg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
